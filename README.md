@@ -3,4 +3,4 @@
 ▶sasa
 
 ---
-> Entra aqui: **larry1sf.github.io/Mente/**
+> Entra aqui: **https://github.com/larry1sf/Mente/**
