@@ -5,4 +5,4 @@
 - _version actual: 1.c_
 
 ---
-> Entra  aqui para ver el portafolio futuro.: **https://larry1sf.github.io/Mente/**
+> Entra  aqui para ver el portafolio futuro: **https://larry1sf.github.io/Mente/**
