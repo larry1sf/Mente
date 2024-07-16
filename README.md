@@ -1,3 +1,4 @@
 # Larry mi curriculum virtual 
 
-> estra aqui 💻
+--
+> estra aqui: *larry1sf.github.io/Mente/*
