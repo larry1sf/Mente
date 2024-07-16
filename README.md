@@ -1,6 +1,7 @@
 # Larry mi curriculum virtual 
 
-▶sasa
+_▶ se deberan ir subiendo las actialuzaciones a las pullrequest_
+
 
 ---
 > Entra aqui: **https://github.com/larry1sf/Mente/**
